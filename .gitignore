@@ -1,0 +1,13 @@
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar volumes do Docker
+pocker_db/
+
+# Ignorar arquivo de variáveis de ambiente
+.env
